@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+I'm a chimps. 
+I like physics and math.
